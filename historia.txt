@@ -7,5 +7,6 @@ Pruebas adicionales
 
 Pruebas agregadas por usuario test
 Pruebas agregadas por usuario test2
+Pruebas agregadas por usuario test3 desde ubuntu
 
 Mañana nos enfocaremos en su vida laboral.
