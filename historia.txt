@@ -3,4 +3,6 @@ Esta es la historia de Luis.
 Luis Bardalez Garcia nacio el 17 de enero de 1990 en Perú.
 Trabaja como desarrollador en Ferreyros S.A.
 
+Pruebas adicionales
+
 Mañana nos enfocaremos en su vida laboral.
